@@ -1,0 +1,26 @@
+{
+  "name": "project02_atm_muhammaduzair10",
+  "version": "1.0.8",
+  "description": "PIAIC assignment project02_atm_guessing-game",
+  "main": "app.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "build": "tsc --build",
+    "start:local": "tsc --build && node app"
+  },
+  "keywords": [
+    "piaic assignments",
+    "project02_atm_guessing-game",
+    "piaic project02_atm_guessing-game"
+  ],
+  "author": "Muhammad Uzair",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.12.11"
+  }
+}
