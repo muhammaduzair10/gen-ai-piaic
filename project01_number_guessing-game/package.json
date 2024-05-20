@@ -1,5 +1,5 @@
 {
-  "name": "project01_number_guessing-game_muhammaduzair10",
+  "name": "project01_number_guessing_muhammaduzair10",
   "version": "1.0.8",
   "description": "PIAIC assignment project01_number_guessing-game",
   "main": "app.js",
@@ -9,7 +9,7 @@
     "build": "tsc --build",
     "start:local": "tsc --build && node app"
   },
-  "keywords": ["piaic assignments", "project01_number_guessing-game", "piaic project01_number_guessing-game"],
+  "keywords": ["piaic assignments", "project01_number_guessing", "piaic project01_number_guessing-game"],
   "author": "Muhammad Uzair",
   "license": "ISC",
   "dependencies": {

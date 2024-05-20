@@ -1,6 +1,6 @@
 {
-  "name": "project00_calculator_muhammaduzair10",
-  "version": "1.0.8",
+  "name": "project00_calculator_muhammaduzair101",
+  "version": "1.0.0",
   "description": "PIAIC assignment project00_calculator",
   "main": "app.js",
   "type": "module",
@@ -9,13 +9,18 @@
     "build": "tsc --build",
     "start:local": "tsc --build && node app"
   },
-  "keywords": ["piaic assignments", "project00_calculator", "piaic project00_calculator"],
+  "keywords": [
+    "piaic assignments",
+    "project00_calculator",
+    "piaic project00_calculator"
+  ],
   "author": "Muhammad Uzair",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^9.1.4"
   },
   "devDependencies": {
-    "@types/inquirer": "^9.0.3"
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.12.11"
   }
 }
