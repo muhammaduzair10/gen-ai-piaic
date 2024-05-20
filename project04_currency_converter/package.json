@@ -1,0 +1,26 @@
+{
+  "name": "project04_currency_converter_muhammaduzair10",
+  "version": "1.0.1",
+  "description": "PIAIC assignment project04_currency_converter-game",
+  "main": "app.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "build": "tsc --build",
+    "start:local": "tsc --build && node app"
+  },
+  "keywords": [
+    "piaic assignments",
+    "project04_currency_converter",
+    "piaic project04_currency_converter"
+  ],
+  "author": "Muhammad Uzair",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.12.11"
+  }
+}
