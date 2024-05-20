@@ -1,0 +1,26 @@
+{
+  "name": "project03_todo_list_muhammaduzair10",
+  "version": "1.0.0",
+  "description": "PIAIC assignment project03_todo_list_guessing-game",
+  "main": "app.js",
+  "type": "module",
+  "bin": "./app.js",
+  "scripts": {
+    "build": "tsc --build",
+    "start:local": "tsc --build && node app"
+  },
+  "keywords": [
+    "piaic assignments",
+    "project03_todo_list_guessing-game",
+    "piaic project03_todo_list_guessing-game"
+  ],
+  "author": "Muhammad Uzair",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^20.12.11"
+  }
+}
